@@ -35,9 +35,9 @@ h3{
 body{
     margin: 0;
 }
-@media (max-width: 768px) {
+@media (max-width: 720px) {
     .div {
-        width: 80%;
+        width: 60%;
         margin: 10px 0;
     }
 }
